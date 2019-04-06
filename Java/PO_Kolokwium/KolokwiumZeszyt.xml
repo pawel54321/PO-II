@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<zeszyty>
+<zeszyt format="A4" liczba_Kartek="1000" cena="500" id="0"/>
+<zeszyt format="A5" liczba_Kartek="2000" cena="1500" id="1"/>
+<zeszyt format="B2" liczba_Kartek="1500" cena="2500" id="2"/>
+<zeszyt format="A2" liczba_Kartek="300" cena="80" id="3"/>
+</zeszyty>
